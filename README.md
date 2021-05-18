@@ -22,4 +22,4 @@ colors := map[string]string{
 ```
 
 ### Map vs Struct
-![A test image](./map-vs-struct.png)
+![Map vs Struct image](https://github.com/alytvynov/go-map/blob/main/doc/map-vs-structs.png)
